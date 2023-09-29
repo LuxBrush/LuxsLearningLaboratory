@@ -31,16 +31,16 @@ You can purchase hours for me to research, study, and develop skills in a specif
 
 ### Specific Subjects:
 
-* [Golang](./Resources/dictionary.md#golang)
-* [TypeScript](./Resources/dictionary.md#typescript)
-* [Qwik](./Resources/dictionary.md#qwik)
+- [Golang](./Resources/dictionary.md#golang)
+- [TypeScript](./Resources/dictionary.md#typescript)
+- [Qwik](./Resources/dictionary.md#qwik)
 
 ### Subject Groups:
 
 This is if you'd like me to work on group of subjects.
 
-* Art
-* Programming
+- Art
+- Programming
 
 ## Pricing:
 
@@ -56,4 +56,4 @@ You can find me on [Twitter](https://twitter.com/lightray)(no I will not call it
 
 ## FAQ:
 
-* Pending
+- Pending

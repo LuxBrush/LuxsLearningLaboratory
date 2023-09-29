@@ -20,7 +20,7 @@ name = "John";
 ## 1.3 Using a variable
 
 ```typescript
-let name: string
+let name: string;
 
 name = "John";
 
@@ -43,7 +43,7 @@ delete name;
 
 ```typescript
 if (true) {
-    let name: string;
+  let name: string;
 }
 
 console.log(name);
@@ -71,5 +71,6 @@ let name: string = () => "John";
 ## 1.10 Variable initialization with a function and parameters
 
 ```typescript
-let name: string = (firstName: string, lastName: string) => firstName + " " + lastName;
+let name: string = (firstName: string, lastName: string) =>
+  firstName + " " + lastName;
 ```

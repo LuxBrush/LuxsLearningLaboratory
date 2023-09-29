@@ -1,6 +1,7 @@
 # 1. Variables
 
 ## 1.1 Variable declaration
+
 This is the most basic way to declare a variable.
 
 ```go
@@ -12,6 +13,7 @@ e = 10
 ```
 
 ## 1.2 Variable initialization
+
 The variable declaration and initialization can be combined in one statement.
 
 ```go
@@ -24,12 +26,15 @@ var (
 ```
 
 ## 1.3 Anonymous variable
+
 Anonymous variables are not declared with the `var` keyword.
 
 ```go
 a, b := 1, 2
 ```
+
 ## 1.4 Variable scope
+
 Variables can be declared inside functions, and are only accessible within the function.
 
 ```go
@@ -44,6 +49,7 @@ func main() {
 ```
 
 ## 1.5 Variable type
+
 Variables have to be declared with a type. Here are some examples:
 
 ```go
