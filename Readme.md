@@ -34,6 +34,8 @@ You can purchase hours for me to research, study, and develop skills in a specif
 - [Golang](./Resources/dictionary.md#golang)
 - [TypeScript](./Resources/dictionary.md#typescript)
 - [Qwik](./Resources/dictionary.md#qwik)
+- [Front-end development](./Resources/dictionary.md#front-end-development)
+- [Back-end development](./Resources/dictionary.md#back-end-development)
 
 ### Subject Groups:
 
